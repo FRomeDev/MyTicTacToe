@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Background.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Button.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ButtonFont.spritefont</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/buttonInterface.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/HandShake.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/InterfaceF.spritefont</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MiniO.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MiniX.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/O.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/X.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

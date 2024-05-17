@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Background.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/Background.xnb","TextureProcessor","Texture2DContent",72129,1055901,0.2743842
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Button.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/Button.xnb","TextureProcessor","Texture2DContent",635,93321,0.2080386
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ButtonFont.spritefont","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/ButtonFont.xnb","FontDescriptionProcessor","SpriteFontContent",2075,37919,0.3683208
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/buttonInterface.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/buttonInterface.xnb","TextureProcessor","Texture2DContent",997,25685,0.0384934
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/HandShake.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/HandShake.xnb","TextureProcessor","Texture2DContent",5757,10085,0.1796134
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/InterfaceF.spritefont","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/InterfaceF.xnb","FontDescriptionProcessor","SpriteFontContent",2075,136223,0.4120889
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MiniO.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/MiniO.xnb","TextureProcessor","Texture2DContent",3631,10085,0.0228922
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MiniX.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/MiniX.xnb","TextureProcessor","Texture2DContent",4095,10085,0.0038717
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/O.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/O.xnb","TextureProcessor","Texture2DContent",19478,160085,0.0091759
+"C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/X.png","C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/bin/Windows/Content/X.xnb","TextureProcessor","Texture2DContent",26568,160085,0.0118652
