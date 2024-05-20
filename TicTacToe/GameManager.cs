@@ -14,6 +14,10 @@
 
             IO = new GameIO(this);
         }
+        public void LoadContent()
+        {
+            IO.LoadContent();
+        }
         public void Update()
         {
             IO.Update();

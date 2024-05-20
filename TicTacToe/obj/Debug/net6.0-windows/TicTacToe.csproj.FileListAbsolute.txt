@@ -45,3 +45,9 @@ C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content
 C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\buttonInterface.xnb
 C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\ButtonFont.xnb
 C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\HandShake.xnb
+C:\Users\e4car\source\repos\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.sourcelink.json
+C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\ButtonDarkGray.xnb
+C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\Sounds\SoundVictory.xnb
+C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\Sounds\SoundO.xnb
+C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\Sounds\SoundX.xnb
+C:\Users\e4car\source\repos\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\Content\Sounds\SoundDraw.xnb

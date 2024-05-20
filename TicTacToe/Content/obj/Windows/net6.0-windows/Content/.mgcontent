@@ -6,6 +6,7 @@
   <SourceFiles>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Background.png</File>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Button.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ButtonDarkGray.png</File>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ButtonFont.spritefont</File>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/buttonInterface.png</File>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/HandShake.png</File>
@@ -13,9 +14,18 @@
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MiniO.png</File>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MiniX.png</File>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/O.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundDraw.mp3</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundO.mp3</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundVictory.wav</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundX.mp3</File>
     <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/X.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

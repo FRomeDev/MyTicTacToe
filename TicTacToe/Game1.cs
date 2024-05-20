@@ -10,12 +10,14 @@ namespace TicTacToe
     }
     public class TicTacToe : Game
     {
-        GraphicsDeviceManager graphics;
-        GameManager gameManager;
+        readonly GraphicsDeviceManager graphics;
+        readonly GameManager gameManager;
+        Color backgroundColor;
         public TicTacToe()
         {
 
             graphics = new GraphicsDeviceManager(this);
+            gameManager = new GameManager(this);
             Content.RootDirectory = "Content";
 
         }
@@ -25,13 +27,13 @@ namespace TicTacToe
             IsMouseVisible = true;
             GlobalVariable.spriteBatch = new SpriteBatch(GraphicsDevice);
             graphics.PreferredBackBufferWidth = 1000;
+            backgroundColor = Color.Black;
             graphics.ApplyChanges();
-
             base.Initialize();
         }
         protected override void LoadContent()
         {
-            gameManager = new GameManager(this);
+            gameManager.LoadContent();
 
         }
         protected override void Update(GameTime gameTime)
@@ -44,7 +46,7 @@ namespace TicTacToe
         }
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.Black);
+            GraphicsDevice.Clear(backgroundColor);
 
             GlobalVariable.spriteBatch.Begin();
 
