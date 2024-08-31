@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ButtonFont.spritefont</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ExitSprites/exitgamepanel.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ExitSprites/no.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/ExitSprites/yes.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Background.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Button.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/ButtonDarkGray.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Choose/BGChoose.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Choose/ChooseB.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Choose/GoB.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Choose/P1B.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Choose/P2CpuB.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Choose/RandomB.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Frame.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/HandShake.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/MiniO.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/MiniX.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/NewRoundB.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/O.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/OandMMSprites/exitOptions.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/OandMMSprites/MainMenuButton.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/OandMMSprites/OptionsButton.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/OandMMSprites/OptionsInGame.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/OandMMSprites/Panel.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/P1CharacterProfile_1.1.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/P1CharacterProfile_1.2.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/P2CharacterProfile_2.1.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/P2CharacterProfile_2.2.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Rounds.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/Score.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/TurnCPU.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/TurnP1.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/TurnP2.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/VictorySprites/mainmenuVictory.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/VictorySprites/retry.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/VictorySprites/select.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/VictorySprites/VictoryPanel.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/GameSprites/X.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/InterfaceF.spritefont</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MainMenuSprites/credits.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MainMenuSprites/exit.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MainMenuSprites/options.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/MainMenuSprites/start.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/OptionsSprites/apply.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/OptionsSprites/back.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/OptionsSprites/Off.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/OptionsSprites/On.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/OptionsSprites/OptionsPanel.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/arrowLeft.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/arrowRight.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/Characters/Player1/cavernicola1.1.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/Characters/Player1/cavernicola1.2.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/Characters/Player2/cavernicola2.1.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/Characters/Player2/cavernicola2.2.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/cpu.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/crosses.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/five.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/mainMenu.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/nougths.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/one.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/player1.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/player2.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/ready.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/rounds.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/three.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/SelectionSprites/vs.png</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/Error.mp3</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundDraw.mp3</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundO.mp3</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundVictory.wav</File>
+    <File>C:/Users/e4car/source/repos/TicTacToe/TicTacToe/Content/Sounds/SoundX.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
